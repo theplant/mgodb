@@ -2,7 +2,7 @@ package mgodb
 
 import (
 	"fmt"
-	"labix.org/v2/mgo"
+	mgo "gopkg.in/mgo.v2"
 	"labix.org/v2/mgo/bson"
 )
 
