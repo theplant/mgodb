@@ -1,9 +1,10 @@
 package mgodb
 
 import (
-	mgo "gopkg.in/mgo.v2"
-	"labix.org/v2/mgo/bson"
 	"reflect"
+
+	"gopkg.in/mgo.v2"
+	"gopkg.in/mgo.v2/bson"
 )
 
 type Database struct {

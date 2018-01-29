@@ -1,7 +1,7 @@
 package mgodb
 
 import (
-	mgo "gopkg.in/mgo.v2"
+	"gopkg.in/mgo.v2"
 )
 
 var DefaultDatabase *Database
